@@ -1,6 +1,6 @@
 # Celebrity-Info
 
-This Streamlit-based web app provides detailed information about celebrities, including their name, date of birth, and major historical events that occurred around their birthdate. The app integrates with powerful language models like OpenAI's GPT to fetch and summarize celebrity details, and uses APIs like Wikipedia to fetch relevant data like images and biographical summaries.
+This Streamlit-based web app provides detailed information about celebrities, including their name, date of birth, and major historical events that occurred around their birthdate. The app integrates with powerful language models like GroqCloud's API to fetch and summarize celebrity details, and uses APIs like Wikipedia to fetch relevant data like images and biographical summaries.
 
 ![Demo](https://github.com/Carnage203/Celebrity-Info/blob/f8bba3f778b5368981bc57124620c8008d0cd1c3/example1.png)
 
