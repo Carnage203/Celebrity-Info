@@ -12,6 +12,6 @@ Interactive UI: All information is displayed in a neat, user-friendly, and inter
 
 # Technologies Used
 Streamlit: For building the interactive web interface.   
-GroqCloud's GPT: For querying and generating detailed text about celebrities.  
+GroqCloud's API: For querying and generating detailed text about celebrities.  
 Wikipedia API: To retrieve celebrity images and additional facts.  
 Requests: For making API requests to external services.  
